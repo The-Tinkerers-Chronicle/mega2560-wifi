@@ -5,7 +5,7 @@ Code examples to come.
 
 I recently purchase some Mega2560 with Wifi Boards from AliExpress, I wasn't after wifi on them but they were only a couple of dollars more so I figured why not!.
 
-Upon trying I ran in to some hurdles and found the firmware versio non the ESP8266 is older and doesn't support the WIFI_ESP library in Arduino.  It took a while to figure everything out as I couldn't find any tutorials start to finish on these boards, I found the required information spread across multiple sites and after a bit of trial and error got everything working.
+Upon trying I ran in to some hurdles and found the firmware version on the ESP8266 is older and doesn't support the WIFI_ESP library in Arduino.  It took a while to figure everything out as I couldn't find any tutorials start to finish on these boards, I found the required information spread across multiple sites and after a bit of trial and error got everything working.
 
 ## Notes:
 
