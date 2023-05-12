@@ -16,6 +16,8 @@ Upon trying I ran in to some hurdles and found the firmware version on the ESP82
 (source: https://www.aliexpress.com/item/32806021806.html?af=954319)
 
 ### ESP init data Memory Addresses
+
+The ESP8266 that was on my boards so I assumme they are all the same is the 512kb version. 
 ![image](https://github.com/The-Tinkerers-Chronicle/mega2560-wifi/assets/133438787/563bbf2d-2444-403d-92b1-c73616a877fc)
 
 (source: https://arduino.stackexchange.com/questions/33590/endless-loop-on-boot-after-reflashing-esp-12e-with-at-firmware)
